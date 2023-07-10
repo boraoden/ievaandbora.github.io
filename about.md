@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: who are ieva and bora?
 permalink: /about/
 published: true
 ---
